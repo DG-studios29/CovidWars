@@ -1,0 +1,84 @@
+{"dialogueID":1,
+"dialoguePlayer":"",
+"dialogueNPC":"Good day gamer",
+"getItem":"",
+"nextDialogue":"2"}/
+
+{"dialogueID":2,
+"dialoguePlayer":"",
+"dialogueNPC":"I am Tom your tutorial guide.",
+"getItem":"",
+"nextDialogue":"3"}/
+
+{"dialogueID":3,
+"dialoguePlayer":"What type of game is this?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"6"}/
+
+{"dialogueID":4,
+"dialoguePlayer":"How do I move around in the game?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"7"}/
+
+{"dialogueID":5,
+"dialoguePlayer":"How do I access the inventory?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"8"}/
+
+{"dialogueID":6,
+"dialoguePlayer":"",
+"dialogueNPC":"This is a first person game.",
+"getItem":"",
+"nextDialogue":"4,5"}/
+
+{"dialogueID":7,
+"dialoguePlayer":"",
+"dialogueNPC":"In order for the player to move you need to press one to open the controll bar.",
+"getItem":"",
+"nextDialogue":"9"}/
+
+{"dialogueID":8,
+"dialoguePlayer":"",
+"dialogueNPC":"In order to open the inventory you need to press Q and if you would like to close to inventory press Tab",
+"getItem":"",
+"nextDialogue":"3,4"}/
+
+{"dialogueID":9,
+"dialoguePlayer":"",
+"dialogueNPC":"Moving the mouse left to right will allow you to see the world you are in.",
+"getItem":"",
+"nextDialogue":"10"}/
+
+{"dialogueID":10,
+"dialoguePlayer":"",
+"dialogueNPC":"I hope you found this tutorial helpful.",
+"getItem":"",
+"nextDialogue":"11"}/
+
+{"dialogueID":11,
+"dialoguePlayer":"",
+"dialogueNPC":"In order to collect and pick up items. The player will need to press 1 to active the panel.",
+"getItem":"",
+"nextDialogue":"12"}/
+
+{"dialogueID":12,
+"dialoguePlayer":"",
+"dialogueNPC":"If the player wishes to leave the input panel they need to press 2 to deactive the panel.",
+"getItem":"",
+"nextDialogue":"13"}/
+
+{"dialogueID":13,
+"dialoguePlayer":"",
+"dialogueNPC":"Press 3 to switch between third and first person viewing",
+"getItem":"",
+"nextDialogue":"14"}/
+
+{"dialogueID":14,
+"dialoguePlayer":"",
+"dialogueNPC":"I wish you good luck gamer",
+"getItem":"",
+"nextDialogue":"0"}
+

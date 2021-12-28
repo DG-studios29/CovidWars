@@ -1,0 +1,65 @@
+{"dialogueID":1,
+"dialoguePlayer":"",
+"dialogueNPC":"Good morning, sir.",
+"getItem":"",
+"nextDialogue":"2"}/
+
+{"dialogueID":2,
+"dialoguePlayer":"Good morning, may I ask what are you?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"3"}/
+
+{"dialogueID":3,
+"dialoguePlayer":"",
+"dialogueNPC":"I am Gizmo, your bot, and I am here to help you with all your needs to live in the new world.",
+"getItem":"",
+"nextDialogue":"4,5,6"}/
+
+{"dialogueID":4,
+"dialoguePlayer":"My bot?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"11"}/
+
+{"dialogueID":5,
+"dialoguePlayer":"Better yet where am I?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"9"}/
+
+{"dialogueID":6,
+"dialoguePlayer":"What's going on?",
+"dialogueNPC":"",
+"getItem":"SUPERCHIP",
+"nextDialogue":"7"}/
+
+{"dialogueID":7,
+"dialoguePlayer":"",
+"dialogueNPC":"The human race is on the verge of extinction, and we need your assistance to fight off the COVID invaders.",
+"getItem":"",
+"nextDialogue":"8"}/
+
+{"dialogueID":8,
+"dialoguePlayer":"",
+"dialogueNPC":"The invaders act like viruses, inflicting great pain on people before killing them.",
+"getItem":"",
+"nextDialogue":"0"}/
+
+{"dialogueID":9,
+"dialoguePlayer":"",
+"dialogueNPC":"You are on Planet 657 (Known as the new world) this is the new home planet for the human race.",
+"getItem":"",
+"nextDialogue":"10"}/
+
+{"dialogueID":10,
+"dialoguePlayer":"",
+"dialogueNPC":"You are in the year 3074. You have been in a cryonic state for 200 years.",
+"getItem":"",
+"nextDialogue":"4,5,6"}/
+
+{"dialogueID":11,
+"dialoguePlayer":"",
+"dialogueNPC":"Yes I am your new partner in crimal for lack of better words. Collect the superchip for more information.",
+"getItem":"",
+"nextDialogue":"4,5,6"}

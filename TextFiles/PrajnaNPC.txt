@@ -1,0 +1,71 @@
+﻿{"dialogueID":1,
+"dialoguePlayer":"",
+"dialogueNPC":"Good morning, Captain.",
+"getItem":"",
+"nextDialogue":"2"}/
+
+{"dialogueID":2,
+"dialoguePlayer":"",
+"dialogueNPC":"I assume you are wondering why you have been awakened?",
+"getItem":"",
+"nextDialogue":"3,4,5"}/
+
+{"dialogueID":3,
+"dialoguePlayer":"Yes Doctor I am",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"6"}/
+
+{"dialogueID":4,
+"dialoguePlayer":"No I know you need my help to defeat the invaders",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"11"}/
+
+{"dialogueID":5,
+"dialoguePlayer":"What do I need to do?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"10"}/
+
+{"dialogueID":6,
+"dialoguePlayer":"",
+"dialogueNPC":"We need your help to destory the invaders",
+"getItem":"",
+"nextDialogue":"7"}/
+
+{"dialogueID":7,
+"dialoguePlayer":"",
+"dialogueNPC":"Many people believe that the invaders arrived in Bellwood first, but no one knows when or how they arrived. This is a common misunderstanding.",
+"getItem":"",
+"nextDialogue":"8"}/
+
+{"dialogueID":8,
+"dialoguePlayer":"",
+"dialogueNPC":"The virus disguises itself as a common flu but has the ability to adapt, making it difficult for scientists to develop a viable defense system, or in other words, a vaccine.",
+"getItem":"",
+"nextDialogue":"9"}/
+
+{"dialogueID":9,
+"dialoguePlayer":"",
+"dialogueNPC":"Although there is no vaccine that can kill the virus, scientists have developed a suit and a mask that give us a fighting chance.",
+"getItem":"",
+"nextDialogue":"4,5"}/
+
+{"dialogueID":10,
+"dialoguePlayer":"",
+"dialogueNPC":"We need to start your weapon training today.",
+"getItem":"",
+"nextDialogue":"12"}/
+
+{"dialogueID":11,
+"dialoguePlayer":"",
+"dialogueNPC":"Yes, we are on the brink of extinction",
+"getItem":"",
+"nextDialogue":"5"}/
+
+{"dialogueID":12,
+"dialoguePlayer":"",
+"dialogueNPC":"Meeta has informed me about your new ablities.",
+"getItem":"",
+"nextDialogue":"0"}

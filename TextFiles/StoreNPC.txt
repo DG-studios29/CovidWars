@@ -1,0 +1,53 @@
+{"dialogueID":1,
+"dialoguePlayer":"",
+"dialogueNPC":"Good day",
+"getItem":"",
+"nextDialogue":2}/
+
+{"dialogueID":2,
+"dialoguePlayer":"I would like to make a purchase.",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"3"}/
+
+{"dialogueID":3,
+"dialoguePlayer":"",
+"dialogueNPC":"You cannot access the store at this time.",
+"getItem":"",
+"nextDialogue":"5,6"}/
+
+{"dialogueID":4,
+"dialoguePlayer":"",
+"dialogueNPC":"The store will be available once you have met with Dr. Prajna Makan.",
+"getItem":"",
+"nextDialogue":"4"}/
+
+{"dialogueID":5,
+"dialoguePlayer":"Do you know how I can connect to the Doctor?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"7"}/
+
+{"dialogueID":6,
+"dialoguePlayer":"Who is the informer",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"8"}/
+
+{"dialogueID":7,
+"dialoguePlayer":"",
+"dialogueNPC":"You will need to talk to the informer for that information",
+"getItem":"",
+"nextDialogue":"5,6"}/
+
+{"dialogueID":8,
+"dialoguePlayer":"",
+"dialogueNPC":"The informer is a soldier called blessings, he is wearing a purple suite",
+"getItem":"",
+"nextDialogue":"9"}/
+
+{"dialogueID":9,
+"dialoguePlayer":"",
+"dialogueNPC":"Please make sure your bot is connected to my cloud so that I can notify you when new items arrive.",
+"getItem":"",
+"nextDialogue":"0"}

@@ -1,0 +1,83 @@
+{"dialogueID":1,
+"dialoguePlayer":"",
+"dialogueNPC":"Mission Report, Sir",
+"getItem":"",
+"nextDialogue":"2"}/
+
+{"dialogueID":2,
+"dialoguePlayer":"Good morning to you too.",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"3"}/
+
+{"dialogueID":3,
+"dialoguePlayer":"Who are you soldier?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"4"}/
+
+{"dialogueID":4,
+"dialoguePlayer":"",
+"dialogueNPC":"Sir, I am blessings sir, I was sent by Dr. Prajna Makan.",
+"getItem":"",
+"nextDialogue":"5"}/
+
+{"dialogueID":5,
+"dialoguePlayer":"Yes, Blessings what is your mission report?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"6"}/
+
+{"dialogueID":6,
+"dialoguePlayer":"",
+"dialogueNPC":"Sir, the enemy has now taken full control over the western quadrant.",
+"getItem":"",
+"nextDialogue":"7,8,9"}/
+
+{"dialogueID":7,
+"dialoguePlayer":"What are we doing in order to take back control?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"10"}/
+
+{"dialogueID":8,
+"dialoguePlayer":"How many quadrants are left?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"14"}/
+
+{"dialogueID":9,
+"dialoguePlayer":"When is the next attack?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"11"}/
+
+{"dialogueID":10,
+"dialoguePlayer":"",
+"dialogueNPC":"Sir, the troops are falling back to protect the remaining quadrants.",
+"getItem":"",
+"nextDialogue":"8,9"}/
+
+{"dialogueID":11,
+"dialoguePlayer":"",
+"dialogueNPC":"They're planning to attack our quadrant next, and our scouts estimate that they'll be here in 15 days.",
+"getItem":"",
+"nextDialogue":"12"}/
+
+{"dialogueID":12,
+"dialoguePlayer":"",
+"dialogueNPC":"Sir, you must report to the head scientist, Dr. Prajna Makan.",
+"getItem":"",
+"nextDialogue":"13"}/
+
+{"dialogueID":13,
+"dialoguePlayer":"",
+"dialogueNPC":"Sir, you need to equip the watch and take the portal it will transport you to Dr. Prajna Makan.",
+"getItem":"",
+"nextDialogue":"0"}/
+
+{"dialogueID":14,
+"dialoguePlayer":"",
+"dialogueNPC":"Sir, there are 2 quadrants left the North and South.",
+"getItem":"",
+"nextDialogue":"7,9"}

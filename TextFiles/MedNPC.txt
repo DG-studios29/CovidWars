@@ -1,0 +1,83 @@
+{"dialogueID":1,
+"dialoguePlayer":"",
+"dialogueNPC":"Good morning, Dhillan.",
+"getItem":"",
+"nextDialogue":"2"}/
+
+{"dialogueID":2,
+"dialoguePlayer":"Good morning, Doctor.",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"5"}/
+
+{"dialogueID":3,
+"dialoguePlayer":"Doctor what is with all these tests?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"10"}/
+
+{"dialogueID":4,
+"dialoguePlayer":"Why is that?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"11"}/
+
+{"dialogueID":5,
+"dialoguePlayer":"",
+"dialogueNPC":"Let's take a closer look at you.",
+"getItem":"",
+"nextDialogue":"6"}/
+
+{"dialogueID":6,
+"dialoguePlayer":"",
+"dialogueNPC":"Brain activity is normal and healthy, with no signs of abnormality.",
+"getItem":"",
+"nextDialogue":"7"}/
+
+{"dialogueID":7,
+"dialoguePlayer":"",
+"dialogueNPC":"Your blood tests were all positive.",
+"getItem":"",
+"nextDialogue":"8"}/
+
+{"dialogueID":8,
+"dialoguePlayer":"",
+"dialogueNPC":"Your motor function is improving, and your strength has increased significantly. It appears that when you were young, your body evolved, making you ten times stronger than most.",
+"getItem":"",
+"nextDialogue":"9"}/
+
+{"dialogueID":9,
+"dialoguePlayer":"",
+"dialogueNPC":"I will run additional tests and notify you via your bot of any changes that I discover, but for the time being, you are all clear and ready for duty.",
+"getItem":"",
+"nextDialogue":"3"}/
+
+{"dialogueID":10,
+"dialoguePlayer":"",
+"dialogueNPC":"Lately many patience that come out of cryo sleep have been feeling unwell?",
+"getItem":"",
+"nextDialogue":"4"}/
+
+{"dialogueID":11,
+"dialoguePlayer":"Are the sleeping pods not working?",
+"dialogueNPC":"",
+"getItem":"",
+"nextDialogue":"12"}/
+
+{"dialogueID":12,
+"dialoguePlayer":"",
+"dialogueNPC":"At this stage we still running tests to figure out the problem.",
+"getItem":"",
+"nextDialogue":"13"}/
+
+{"dialogueID":13,
+"dialoguePlayer":"",
+"dialogueNPC":"The pod engineers are working to create a new cryo system just incase the current one can not be fix.",
+"getItem":"",
+"nextDialogue":"14"}/
+
+{"dialogueID":14,
+"dialoguePlayer":"",
+"dialogueNPC":"Oh, just remember you're a lot stronger than you think, and it'll take some time to get used to it, so don't crush anything or anyone.",
+"getItem":"",
+"nextDialogue":"0"}
